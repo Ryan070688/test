@@ -2,7 +2,9 @@
 
 int main(){
 
-printf("testing...\n");
+
+
+printf("hello world")
 
 	return 0;
 }
